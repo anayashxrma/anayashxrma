@@ -1,4 +1,4 @@
-#Hi! I'm Anaya Sharma!
+## Hi! I'm Anaya Sharma!
 
 ## About Me
 Hello! I am Anaya Sharma, I'm a Mathematics student and a beginner but passionate developer developer. 
