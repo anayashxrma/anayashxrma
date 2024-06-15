@@ -1,16 +1,14 @@
-## Hi there 👋
+# Welcome to Anaya Sharma's GitHub Profile!
 
-<!--
-**anayashxrma/anayashxrma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header Image]( https://i.pinimg.com/originals/88/a9/69/88a969c3e830bbcbff939ea870058d91.gif)
 
-Here are some ideas to get you started:
+## About Me
+Hello! I am Anaya Sharma, I'm a Mathematics student and a beginner but passionate developer developer. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a personal finance tracker app
+- 🌱 I’m currently learning Haskell and Java
+- 💬 Ask me about Python, C, C++, and SQL
+- 📫 How to reach me: anaya.sharma.18feb@gmail.com
+
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anayasharma9)
