@@ -1,5 +1,3 @@
-# Welcome to Anaya Sharma's GitHub Profile!
-
 ![Header Image]( https://i.pinimg.com/originals/88/a9/69/88a969c3e830bbcbff939ea870058d91.gif)
 
 ## About Me
